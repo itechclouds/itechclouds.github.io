@@ -1,0 +1,36 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+a {
+    color: #000 !important;
+}
+a:hover {
+    text-decoration: none !important;
+    color: #000 !important;
+}
+/* iframe {
+    display: none;
+}  */
+body {
+    width: 100%;
+    overflow-x: hidden;
+    height: 100%;
+}
+/*
+có 1 thang margin -top
+ak
+nhưng nó có màu margin đâu nhỉ
+là sao
+cái màu hồng đó
+đâu, màu nào
+ak r
+nhìn lộn
+
+tohkank nha
+ok ok
+*/

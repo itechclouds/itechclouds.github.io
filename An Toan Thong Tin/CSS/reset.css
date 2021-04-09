@@ -1,0 +1,23 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+a {
+    color: #000 !important;
+}
+a:hover {
+    text-decoration: none !important;
+    color: #000 !important;
+}
+/* iframe {
+    display: none;
+}  */
+body {
+    width: 100%;
+    overflow-x: hidden;
+    height: 100%;
+}
