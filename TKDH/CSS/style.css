@@ -502,6 +502,7 @@
 .course-item > img {
     width: 45%;
     margin: 0 2rem;
+    object-fit: cover;
 }
 .course-item .course-content {
     width: 45%;
@@ -524,6 +525,7 @@
 }
 .course-text {
     min-height: 150px;
+    text-align: justify;
 }
 .course-content  > img {
     width: 50%;
